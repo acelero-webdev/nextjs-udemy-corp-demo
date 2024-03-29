@@ -6,7 +6,7 @@ export default function PerformancePage() {
     <Hero 
       imgData={performanceImg}
       imgAlt="welding"
-      title="We serve high performance applications."
+      title="We serve extremely high performance applications."
     />
   );
 }
